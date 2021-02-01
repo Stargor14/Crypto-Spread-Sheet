@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cryptochart",
+  "private_key_id": "fa5e3693678757f7e0853e10f6e9162ee2fe18c3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDh5gGZruOwaxyr\n2qMv5SHpDgxe7VRsFxDW4E4S/nElLwIB2FMaiSDmGoiXdELnsRW1nZBfmawR1hC+\nPmgcYpLWKZjSrh72z8VQ6uLwSiY6KJ73FBoxPecZv+ZW8+JBs4+C4MhdvZCnW8yw\nPQodccZyqrhstZr56hWUo+No4o9tcz+mgw/WWSlspmUyzUKkaEQvbasO5oFNqQTr\n+CX7A2Vjok+CEYlUYCEWWTSPmQIy3KQ3n9Z9TEPr2HJg5g0QioqiFusy0vq0VL6G\nBCABOwrme52TWjsUzoY/AhfwQfiAdsojcbej6dUMmfQ3lJwvX/e3wFAY2qU8Hguc\naBm+4T5VAgMBAAECggEACckj8ptf46mQMWWkQhPj9yuTn50aViBdq2FGII6DKkAy\nDxBm8TRVh4JIvn7b0xuZvCdaNLn8eT1TtloPuoMOp1Zf92hxkPGJM6spL42WwFg4\nIq3tQIrU8wmcGdIwz/XOVrYUF/N5S7avVEcgpAvks9zvZk4rq33Xd3vuAwIlgnEx\nzxUxz26X8BbseTgxPNwsz8+0bp+yjTeoKPYDtLji9EXbwi8QHuWk9HB/dWWbjcsx\nOTwgnZGyRGL6docpflTY8rjiCtTEHuqmuAwgwr9bjXTGlY1dd40EK3l1RddjTyZI\nOb5JuY7Td9fwidSxo502Pg+PAFi9X9KRYHKGmz4FgQKBgQD00dNQKB5tDoLAIHb3\n9Qt/mhPARb1ScDOKKqapsKCCPZN9k2tdOFcYgZNt2PG2UYA874Bf7DshB6RZIgsh\nHTgMB8BN0DEPs53r9ZyyhbPd4CplapyqA3//hJDY3ZKDsjdJd/exG5v9HFfZL+cn\nEcdufnel//PPvLZvE19lw8hIIQKBgQDsNvlt7X6DIv+de/WV4lzjPknBGK5xPWI9\nHI6nDl46PbMzrO3sFy/pSKBGC/NoEXIiK8btWfGAH1WoCIPQIgA7X3iKeY25QZGd\nNYYaiPP8tX42PGcW5C1HHMOYxIlMuHaQcp8iaN/UocVz3uYLIpGbDaiDJriw1j8E\nDVNzh0JftQKBgQCVU56Wl8HnNyCdW6/1EixPSoWdk2wk6nclYVqCyk884Z4izFaC\nZ6kIM5DfQaI9WHzlrhgZaheuz+B41YEAU7gp7lhnngMu1poOoKNRaKgLP33cmiiw\nsq3SBuPqw0totL1wPJKCHpsIyc7zlHpjpD6GsPD9+Z6XKT4FhkV75u00wQKBgQDC\nFnWibmbqJ2Kyqrzil+lMysxdPgNvhklm/0TzXOntnu7Uwf2IZJD4dLVEeONaGiOW\nkjPUqHe3l4eRFtX/uUBJiKuJ1FCv7IFSFD2JJgicFyCKPd1SwM+3Q5ovtyU9hb/d\n9mBtLJDlrLqJ95c7hP7w0SsqADH3E0MZ+D0eiv/tlQKBgQCFnOn5BzoUep+oPAdH\nbD087KkMpFtK8N00sH+/qKxAg0hnC9rjVyTG8YTQ/BGEpbcMqVdfZ/nNTQ1qaD7f\nFXQMYXCh19UQW7obdi1LRh04Cf+woyq0Fc9W0uwR8RvoFi83W08aLPkxA+V8aqfs\nqvpZp6hBbkxDrcuzyXZsj9D5Tw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "spreadsheetreader@cryptochart.iam.gserviceaccount.com",
+  "client_id": "106649314491461434528",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spreadsheetreader%40cryptochart.iam.gserviceaccount.com"
+}
