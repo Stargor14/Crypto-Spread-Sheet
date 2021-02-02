@@ -1,8 +1,4 @@
 #https://api.coindesk.com/v1/bpi/currentprice.json
-
-#nicehash
-#9c218054-23c1-483d-a8d0-6ef99a0d99bf
-#ba8c1aa5-e76a-48a5-bc9e-c2b1080ec38ab22678ca-2634-40ed-94af-ac29be8331bc
 import json
 import time
 import datetime 
@@ -16,7 +12,7 @@ import nicehash
 
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 SERVICE_ACCOUNT_FILE = 'keys.json'
-SPREADSHEET_ID = '13Z9ZHNa2aa_EXu11cEeiKCwtjs8HROUtJ4CfQkY-D_o'
+SPREADSHEET_ID = 'SPREADSHEETID'
 
 credentials = None
 credentials = service_account.Credentials.from_service_account_file(
@@ -31,11 +27,11 @@ row = 7
 global date
 date = datetime.date.today()
 #binance keys
-apikey = "x15G8QtfrUCJG1F7tCahCwyCwxE7a3Mbykg8Q4Uf0Q7QKjB1B3GvCYkfzRUTS96e"
-secretkey = "YyATCoS7OwFFAdaqK3UCw0zZLZoz6RWRqarMrHhGi7P08c7Muay8zDWZfV86SxA5"
+apikey = "APIKEY"
+secretkey = "SECRETKEY"
 #nicehash keys and declarations
-niceapikey = '9c218054-23c1-483d-a8d0-6ef99a0d99bf'
-nicesecretkey = 'ba8c1aa5-e76a-48a5-bc9e-c2b1080ec38ab22678ca-2634-40ed-94af-ac29be8331bc'
+niceapikey = 'NICEHASHPUBLICKEY'
+nicesecretkey = 'NICEHASHPRIVATEKEY'
 
 host = 'https://api2.nicehash.com'
 
